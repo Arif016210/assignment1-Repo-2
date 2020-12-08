@@ -1,0 +1,8 @@
+Hard Rocking
+A single page Javascript Music lyrics search app. 
+This project includes javascript,API. This is beautiful app.\
+
+JavaScript HTML CSS Bootstrap4
+
+https://arif016210.github.io/Hard-Rock-API--Assignment/ 
+https://github.com/Arif016210/Hard-Rock-API--Assignment
